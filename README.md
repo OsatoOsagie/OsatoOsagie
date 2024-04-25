@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OsatoOsagie
-- 👀 I’m interested in Blockchain technologies and Web3
-- 🌱 I’m currently learning solidity and Ethereum
-- 💞️ I’m looking to collaborate on web3 projects
-- 📫 email- Osatoosagie@yahoo.com
+- 👀 I’m interested in LLMs and web3.js.3
+- 🌱 I’m currently learning Python and ML
+- 💞️ I’m looking to collaborate on ML projects
+- 📫 email- osagie_og@yahoo.com
 
 <!---
 OsatoOsagie/OsatoOsagie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
